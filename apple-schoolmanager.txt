@@ -1,6 +1,6 @@
 # This domains need to be whitelisted for Apple Schoolmanager
 
-0.0.0.0 *.push.apple.com
+0.0.0.0 ||push.apple.com^
 0.0.0.0 s.mzstatic.com
 0.0.0.0 ws-ee-maidsvc.icloud.com
 0.0.0.0 ws.school.apple.com
@@ -8,5 +8,5 @@
 0.0.0.0 pg-bootstrap.itunes.apple.com
 0.0.0.0 play.itunes.apple.com
 0.0.0.0 cls-ingest.itunes.apple.com
-0.0.0.0 *.school.apple.com
+0.0.0.0 ||school.apple.com^
 0.0.0.0 appleid.gescher.de
