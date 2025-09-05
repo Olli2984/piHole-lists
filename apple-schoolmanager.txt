@@ -9,3 +9,4 @@
 0.0.0.0 play.itunes.apple.com
 0.0.0.0 cls-ingest.itunes.apple.com
 0.0.0.0 *.school.apple.com
+0.0.0.0 appleid.gescher.de
